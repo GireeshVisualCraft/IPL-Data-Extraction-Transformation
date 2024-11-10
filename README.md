@@ -101,7 +101,7 @@ This project effectively organizes IPL 2024 match data into four Excel sheets, p
 - **Formatted Output**: Clean, structured output files in Excel for seamless integration with other tools or dashboards.
 
 ## Requirements
-- **Python 3.x**
+- **Python**
 - **Pandas Library**: For data manipulation and Excel processing.
 - **Excel**: For accessing and viewing output files.
 
